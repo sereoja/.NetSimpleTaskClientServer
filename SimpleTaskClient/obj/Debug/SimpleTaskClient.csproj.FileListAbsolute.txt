@@ -1,0 +1,27 @@
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\SimpleTaskClientServer\SimpleTaskClient\bin\Debug\SimpleTaskClient.exe.config
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\SimpleTaskClientServer\SimpleTaskClient\bin\Debug\SimpleTaskClient.exe
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\SimpleTaskClientServer\SimpleTaskClient\bin\Debug\SimpleTaskClient.pdb
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\SimpleTaskClientServer\SimpleTaskClient\obj\Debug\SimpleTaskClient.Properties.Resources.resources
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\SimpleTaskClientServer\SimpleTaskClient\obj\Debug\SimpleTaskClient.csproj.GenerateResource.Cache
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\SimpleTaskClientServer\SimpleTaskClient\obj\Debug\SimpleTaskClient.exe
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\SimpleTaskClientServer\SimpleTaskClient\obj\Debug\SimpleTaskClient.pdb
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\SimpleTaskClientServer\SimpleTaskClient\obj\Debug\SimpleTaskClient.csprojResolveAssemblyReference.cache
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\SimpleTaskClientServer\SimpleTaskClient\obj\Debug\SimpleTaskClient.ClientForm1.resources
+C:\Users\sungureanu\Desktop\SergiuSimpleTaskClientServer\SimpleTaskClient\bin\Debug\SimpleTaskClient.exe.config
+C:\Users\sungureanu\Desktop\SergiuSimpleTaskClientServer\SimpleTaskClient\bin\Debug\SimpleTaskClient.exe
+C:\Users\sungureanu\Desktop\SergiuSimpleTaskClientServer\SimpleTaskClient\bin\Debug\SimpleTaskClient.pdb
+C:\Users\sungureanu\Desktop\SergiuSimpleTaskClientServer\SimpleTaskClient\obj\Debug\SimpleTaskClient.csprojResolveAssemblyReference.cache
+C:\Users\sungureanu\Desktop\SergiuSimpleTaskClientServer\SimpleTaskClient\obj\Debug\SimpleTaskClient.ClientForm1.resources
+C:\Users\sungureanu\Desktop\SergiuSimpleTaskClientServer\SimpleTaskClient\obj\Debug\SimpleTaskClient.Properties.Resources.resources
+C:\Users\sungureanu\Desktop\SergiuSimpleTaskClientServer\SimpleTaskClient\obj\Debug\SimpleTaskClient.csproj.GenerateResource.Cache
+C:\Users\sungureanu\Desktop\SergiuSimpleTaskClientServer\SimpleTaskClient\obj\Debug\SimpleTaskClient.exe
+C:\Users\sungureanu\Desktop\SergiuSimpleTaskClientServer\SimpleTaskClient\obj\Debug\SimpleTaskClient.pdb
+C:\Users\homer\Desktop\SergiuSimpleTaskClientServer\SimpleTaskClient\bin\Debug\SimpleTaskClient.exe.config
+C:\Users\homer\Desktop\SergiuSimpleTaskClientServer\SimpleTaskClient\bin\Debug\SimpleTaskClient.exe
+C:\Users\homer\Desktop\SergiuSimpleTaskClientServer\SimpleTaskClient\bin\Debug\SimpleTaskClient.pdb
+C:\Users\homer\Desktop\SergiuSimpleTaskClientServer\SimpleTaskClient\obj\Debug\SimpleTaskClient.csprojResolveAssemblyReference.cache
+C:\Users\homer\Desktop\SergiuSimpleTaskClientServer\SimpleTaskClient\obj\Debug\SimpleTaskClient.ClientForm1.resources
+C:\Users\homer\Desktop\SergiuSimpleTaskClientServer\SimpleTaskClient\obj\Debug\SimpleTaskClient.Properties.Resources.resources
+C:\Users\homer\Desktop\SergiuSimpleTaskClientServer\SimpleTaskClient\obj\Debug\SimpleTaskClient.csproj.GenerateResource.Cache
+C:\Users\homer\Desktop\SergiuSimpleTaskClientServer\SimpleTaskClient\obj\Debug\SimpleTaskClient.exe
+C:\Users\homer\Desktop\SergiuSimpleTaskClientServer\SimpleTaskClient\obj\Debug\SimpleTaskClient.pdb

@@ -1,0 +1,27 @@
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\SimpleTaskClientServer\SimpleTaskServer\bin\Debug\SimpleTaskServer.exe.config
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\SimpleTaskClientServer\SimpleTaskServer\bin\Debug\SimpleTaskServer.exe
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\SimpleTaskClientServer\SimpleTaskServer\bin\Debug\SimpleTaskServer.pdb
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\SimpleTaskClientServer\SimpleTaskServer\obj\Debug\SimpleTaskServer.csprojResolveAssemblyReference.cache
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\SimpleTaskClientServer\SimpleTaskServer\obj\Debug\SimpleTaskServer.Properties.Resources.resources
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\SimpleTaskClientServer\SimpleTaskServer\obj\Debug\SimpleTaskServer.csproj.GenerateResource.Cache
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\SimpleTaskClientServer\SimpleTaskServer\obj\Debug\SimpleTaskServer.exe
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\SimpleTaskClientServer\SimpleTaskServer\obj\Debug\SimpleTaskServer.pdb
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\SimpleTaskClientServer\SimpleTaskServer\obj\Debug\SimpleTaskServer.ServerForm1.resources
+C:\Users\sungureanu\Desktop\SergiuSimpleTaskClientServer\SimpleTaskServer\bin\Debug\SimpleTaskServer.exe.config
+C:\Users\sungureanu\Desktop\SergiuSimpleTaskClientServer\SimpleTaskServer\bin\Debug\SimpleTaskServer.exe
+C:\Users\sungureanu\Desktop\SergiuSimpleTaskClientServer\SimpleTaskServer\bin\Debug\SimpleTaskServer.pdb
+C:\Users\sungureanu\Desktop\SergiuSimpleTaskClientServer\SimpleTaskServer\obj\Debug\SimpleTaskServer.csprojResolveAssemblyReference.cache
+C:\Users\sungureanu\Desktop\SergiuSimpleTaskClientServer\SimpleTaskServer\obj\Debug\SimpleTaskServer.ServerForm1.resources
+C:\Users\sungureanu\Desktop\SergiuSimpleTaskClientServer\SimpleTaskServer\obj\Debug\SimpleTaskServer.Properties.Resources.resources
+C:\Users\sungureanu\Desktop\SergiuSimpleTaskClientServer\SimpleTaskServer\obj\Debug\SimpleTaskServer.csproj.GenerateResource.Cache
+C:\Users\sungureanu\Desktop\SergiuSimpleTaskClientServer\SimpleTaskServer\obj\Debug\SimpleTaskServer.exe
+C:\Users\sungureanu\Desktop\SergiuSimpleTaskClientServer\SimpleTaskServer\obj\Debug\SimpleTaskServer.pdb
+C:\Users\homer\Desktop\SergiuSimpleTaskClientServer\SimpleTaskServer\bin\Debug\SimpleTaskServer.exe.config
+C:\Users\homer\Desktop\SergiuSimpleTaskClientServer\SimpleTaskServer\obj\Debug\SimpleTaskServer.exe
+C:\Users\homer\Desktop\SergiuSimpleTaskClientServer\SimpleTaskServer\obj\Debug\SimpleTaskServer.pdb
+C:\Users\homer\Desktop\SergiuSimpleTaskClientServer\SimpleTaskServer\bin\Debug\SimpleTaskServer.exe
+C:\Users\homer\Desktop\SergiuSimpleTaskClientServer\SimpleTaskServer\bin\Debug\SimpleTaskServer.pdb
+C:\Users\homer\Desktop\SergiuSimpleTaskClientServer\SimpleTaskServer\obj\Debug\SimpleTaskServer.csprojResolveAssemblyReference.cache
+C:\Users\homer\Desktop\SergiuSimpleTaskClientServer\SimpleTaskServer\obj\Debug\SimpleTaskServer.ServerForm1.resources
+C:\Users\homer\Desktop\SergiuSimpleTaskClientServer\SimpleTaskServer\obj\Debug\SimpleTaskServer.Properties.Resources.resources
+C:\Users\homer\Desktop\SergiuSimpleTaskClientServer\SimpleTaskServer\obj\Debug\SimpleTaskServer.csproj.GenerateResource.Cache

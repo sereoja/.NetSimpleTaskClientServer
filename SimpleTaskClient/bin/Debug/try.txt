@@ -1,0 +1,2 @@
+echoing: Ivalid Command 
+Get fileName.fileExte
